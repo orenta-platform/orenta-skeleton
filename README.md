@@ -12,5 +12,6 @@ skeleton needs its own name.
 | Path | Content |
 |---|---|
 | `trust/` | public keys compiled into every image (owner review required) |
+| `signature/` | verification of SSHSIG signatures (`ssh-keygen -Y sign`) against those keys |
 | `maintainer/` | infra maintainer (fixed code, signed manifest) |
 | `.github/workflows/` | build workflow: native images, ghcr.io, cosign keyless |

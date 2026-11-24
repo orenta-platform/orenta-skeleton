@@ -1,0 +1,11 @@
+{
+  "manifest": "orenta-infra",
+  "version": 3,
+  "issued": "2026-11-23",
+  "allowed_images": { "codeswhat/sockguard": { "pin": "digest" } },
+  "targets": [
+    { "name": "postgres", "mode": "observe" },
+    { "name": "sockguard-tenant-a", "mode": "managed", "wanted": false, "image": "codeswhat/sockguard",
+      "digest": "", "template": { "network_mode": "none" } }
+  ]
+}

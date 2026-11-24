@@ -26,9 +26,10 @@
     <surefire.version>3.5.2</surefire.version>
   </properties>
 
-  <!-- Module folgen: maintainer, skeleton -->
+  <!-- Modul skeleton folgt -->
   <modules>
     <module>signature</module>
+    <module>maintainer</module>
   </modules>
 
   <dependencyManagement>

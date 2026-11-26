@@ -1,7 +1,7 @@
 # CLAUDE.md – orenta-skeleton
 
 Wahrheit ist das Dokument «Orenta: Zielarchitektur» (https://claude.ai/artifact/SABVTmnkuH19WAo2VxPr9J),
-v. a. Regeln R1–R45, Entscheide E1–E31, «Einrichten und Start», Umsetzungsplan.
+v. a. Regeln R1–R53, Entscheide E1–E52, «Einrichten und Start», Umsetzungsplan.
 
 ## Regeln für die Arbeit hier
 
